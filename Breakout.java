@@ -1,9 +1,4 @@
 /*
- * File: Breakout.java
- * -------------------
- * Name:
- * Section Leader:
- * 
  * This file will eventually implement the game of Breakout.
  */
 
